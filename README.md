@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=1000&color=BC13FE&center=true&vCenter=true&width=700&height=120&lines=💜+ZEYNO-BOT+💜;THE+MOST+POWERFUL+BOT;DEVELOPED+BY+ENDY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=50&pause=1000&color=BC13FE&center=true&vCenter=true&width=700&height=120&lines=💜+ZEYNO-BOT+💜;THE+BEST+ZOZZAP+BOT;CREATED+BY+ENDY" alt="Typing SVG" />
 </p>
 
 <p align="center">
