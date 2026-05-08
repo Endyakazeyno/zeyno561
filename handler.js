@@ -943,5 +943,5 @@ function pickRandom(list) {
 let file = global.__filename(import.meta.url, true)
 watchFile(file, async () => { 
     unwatchFile(file)     
-    console.log(chalk.bgHex('#3b0d95')(chalk.white.bold("File: 'handler.js' Aggiornato")))
+    console.log(chalk.bgHex('#FF00FF')(chalk.white.bold("File: 'handler.js' Aggiornato")))
 })
