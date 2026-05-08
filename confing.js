@@ -55,10 +55,10 @@ global.errore =
   '⚠️ *[SYSTEM ERROR]* Usa `!segnala` per inviare il log allo staff.'
 
 global.repobot =
-  'https://github.com/axion-bot/axion-bot'
+  'https://github.com/Endyakazeyno/zeyno561'
 
 global.canale =
-  'https://whatsapp.com/channel/0029Vb8MQ3U1CYoMEtU1832d'
+    'https://whatsapp.com/channel/0029VbBsqvyF1YlXIC2zUh1N'
 
 global.cheerio = cheerio
 global.fs      = fs
@@ -67,19 +67,19 @@ global.axios   = axios
 global.moment  = moment
 
 global.APIKeys = {
-  spotifyclientid: 'axion',
-  spotifysecret: 'axion',
-  browserless: 'axion',
-  screenshotone: 'axion',
-  tmdb: 'axion',
-  gemini: 'axion',
-  ocrspace: 'axion',
-  assemblyai: 'axion',
-  google: 'axion',
-  googlex: 'axion',
-  googleCX: 'axion',
-  genius: 'axion',
-  unsplash: 'axion',
+  spotifyclientid: 'zeyno',
+  spotifysecret: 'zeyno',
+  browserless: 'zeyno',
+  screenshotone: 'zeyno',
+  tmdb: 'zeyno',
+  gemini: 'zeyno',
+  ocrspace: 'zeyno',
+  assemblyai: 'zeyno',
+  google: 'zeyno',
+  googlex: 'zeyno',
+  googleCX: 'zeyno',
+  genius: 'zeyno',
+  unsplash: 'zeyno',
   removebg: 'FEx4CYmYN1QRQWD1mbZp87jV',
   openrouter: 'axion',
   lastfm: '36f859a1fc4121e7f0e931806507d5f9',
