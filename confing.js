@@ -25,7 +25,7 @@ global.owner = [
   ['393501989497', 'モれ刀ﾘ', true],
   ['212693877842', 'medalis', true],
   ['77787623522', 'sventare', true],
-  ['212612624296', 'zak', true],
+  ['393894321332', 'zak', true],
 ]
 
 global.mods = [
