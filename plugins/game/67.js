@@ -14,7 +14,7 @@ handler.all = async function (m) {
     if (now - last < COOLDOWN_MS) return
     cooldowns.set(m.chat, now)
 
-    const stickerPath = path.join(process.cwd(), 'media', 'stickers', '4d4438af7481eb9a42376f57a065c088.jpg')
+    const stickerPath = path.join(process.cwd(), 'media', 'stickers', 'bc79dd63c37f8fd60f46d7a11353b50f.jpg')
 
     if (!fs.existsSync(stickerPath)) {
         console.error('[67] Sticker non trovato:', stickerPath)
