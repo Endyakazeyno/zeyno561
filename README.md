@@ -45,7 +45,7 @@
 2.  **Clone del Bot:**
     ```bash
     git clone [https://github.com/Endyakazeyno/zeyno561.git](https://github.com/Endyakazeyno/zeyno561.git)
-    cd Zeyno-bot-MD
+    cd zeyno561
     ```
 3.  **Avvio:**
     ```bash
