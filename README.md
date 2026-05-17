@@ -44,7 +44,7 @@
     ```
 2.  **Clone del Bot:**
     ```bash
-    git clone [https://github.com/Endy-bit/Zeyno-bot-MD.git](https://github.com/Endy-bit/Zeyno-bot-MD.git)
+    git clone [https://github.com/Endyakazeyno/zeyno561.git](https://github.com/Endyakazeyno/zeyno561.git)
     cd Zeyno-bot-MD
     ```
 3.  **Avvio:**
@@ -75,13 +75,13 @@
 </p>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Endy-bit/Zeyno-bot-MD" alt="Views" />
-  <img src="https://img.shields.io/github/forks/Endy-bit/Zeyno-bot-MD?style=for-the-badge&label=FORKS&color=red" alt="Forks" />
-  <img src="https://img.shields.io/github/stars/Endy-bit/Zeyno-bot-MD?style=for-the-badge&label=STARS&color=yellow" alt="Stars" />
+  <img src="https://gpvc.arturio.dev/Endyakazeyno/zeyno561" alt="Views" />
+  <img src="https://img.shields.io/github/forks/Endyakazeyno/zeyno561?style=for-the-badge&label=FORKS&color=red" alt="Forks" />
+  <img src="https://img.shields.io/github/stars/Endyakazeyno/zeyno561?style=for-the-badge&label=STARS&color=yellow" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Endy-bit&repo=Zeyno-bot-MD&theme=blood-dark&title_color=ff0000&icon_color=ff0000" width="100%" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Endyakazeyno &repo=zeyno561&theme=blood-dark&title_color=ff0000&icon_color=ff0000" width="100%" alt="Stats" />
 </p>
 
 ---
@@ -92,7 +92,7 @@
 
 * **Sviluppatore:** Endy 
 * **Supporto WhatsApp:** [+39 350 198 9497](https://wa.me/393501989497)
-* **Community:** [UNISCITI AL GRUPPO ZOZZAP](https://chat.whatsapp.com/EPY9EqMNV6XD0PmVk8jbEb?mode=gi_t)
+* **Community:** [UNISCITI AL GRUPPO ZOZZAP](https://chat.whatsapp.com/FdA61ZKYPB43WOIK6rUs8L?mode=gi_t)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=2000&color=FF0000&center=true&vCenter=true&width=650&height=60&lines=SUPPORT+BY+GIVING+A+STAR+⭐;THANKS+FOR+USING+ZEYNO-BOT-MD!" alt="Thanks" />
