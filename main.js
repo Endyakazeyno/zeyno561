@@ -141,7 +141,7 @@ if (!methodCodeQR && !methodCode && !fs.existsSync(`./${authFile}/creds.json`)) 
         cyan1.italic('                𝚭𝚵𝚼𝚴𝚰 𝐒𝐘𝐒𝐓𝐄𝐌 • 𝐕5.0.0'),
     ];
 
-    const prompt = green.bold('\n⌬ axion-auth ➤ ');
+    const prompt = green.bold('\nzeyno-auth ➤ ');
 
     opzione = await question(`\n
 ${a}
