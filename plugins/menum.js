@@ -48,6 +48,6 @@ function clockString(ms) {
 
 handler.help = ['menu', 'comandi'];
 handler.tags = ['menu'];
-handler.command = /^(menu|comandi)$/i;
+handler.command = /^(menum|comandi)$/i;
 
 export default handler;
