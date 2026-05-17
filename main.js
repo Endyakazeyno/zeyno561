@@ -303,7 +303,7 @@ ${extra ? `*Plugin:* ${extra}\n` : ''}*Messaggio:* ${messageText}`;
 
         await global.conn.sendMessage(jid, {
             text,
-            footer: 'Axion Bot',
+            footer: 'Zeyno Bot',
             buttons: [
                 {
                     buttonId: `.debugplugin ${debugId}`,
