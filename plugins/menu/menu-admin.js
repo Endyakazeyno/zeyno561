@@ -1,6 +1,6 @@
 import { performance } from 'perf_hooks'
 
-const handler = async (message, { conn, usedPrefix = '/' }) => {
+const handler = async (message, { conn, usedPrefix = '.' }) => {
   const userId = message.sender
   const uptimeMs = process.uptime() * 1000
   const uptimeStr = clockString(uptimeMs)
