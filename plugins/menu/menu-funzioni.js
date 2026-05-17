@@ -24,7 +24,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 
   if (!thumbnail) {
     try {
-      thumbnail = fs.readFileSync('./media/default-avatar.png')
+      thumbnail = fs.readFileSync('./media/image-14.jpg')
     } catch {}
   }
 
